@@ -1,0 +1,139 @@
+[0.027s] Invoking command in '/home/einstein/Desktop/slambot_ros2/build/slambot_controllers': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/einstein/Desktop/slambot_ros2/src/slambot_controllers -DCMAKE_INSTALL_PREFIX=/home/einstein/Desktop/slambot_ros2/install/slambot_controllers
+[0.769s] -- The C compiler identification is GNU 11.4.0
+[1.246s] -- The CXX compiler identification is GNU 11.4.0
+[1.271s] -- Detecting C compiler ABI info
+[1.425s] -- Detecting C compiler ABI info - done
+[1.431s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.441s] -- Detecting C compile features
+[1.442s] -- Detecting C compile features - done
+[1.490s] -- Detecting CXX compiler ABI info
+[1.651s] -- Detecting CXX compiler ABI info - done
+[1.661s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.661s] -- Detecting CXX compile features
+[1.661s] -- Detecting CXX compile features - done
+[1.689s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.978s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.469s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[3.062s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.168s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.274s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.476s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.761s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.502s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[4.535s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.309s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[5.418s] -- Found FastRTPS: /opt/ros/humble/include  
+[5.458s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.592s] -- Looking for pthread.h
+[5.709s] -- Looking for pthread.h - found
+[5.710s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[5.777s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[5.777s] -- Found Threads: TRUE  
+[6.508s] -- Found rclpy: 3.3.14 (/opt/ros/humble/share/rclpy/cmake)
+[6.524s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[6.636s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[6.758s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[6.820s] -- Found tf2_ros: 0.25.7 (/opt/ros/humble/share/tf2_ros/cmake)
+[7.198s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[7.257s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[7.257s] -- Configured cppcheck include dirs: /home/einstein/Desktop/slambot_ros2/src/slambot_controllers/include
+[7.257s] -- Configured cppcheck exclude dirs and/or files: 
+[7.257s] -- Added test 'flake8' to check Python code syntax and style conventions
+[7.258s] -- Added test 'lint_cmake' to check CMake code style
+[7.258s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[7.259s] -- Added test 'uncrustify' to check C / C++ code style
+[7.259s] -- Configured uncrustify additional arguments: 
+[7.259s] -- Added test 'xmllint' to check XML markup files
+[7.260s] -- Configuring done
+[7.275s] -- Generating done
+[7.276s] -- Build files have been written to: /home/einstein/Desktop/slambot_ros2/build/slambot_controllers
+[7.285s] Invoked command in '/home/einstein/Desktop/slambot_ros2/build/slambot_controllers' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/einstein/Desktop/slambot_ros2/src/slambot_controllers -DCMAKE_INSTALL_PREFIX=/home/einstein/Desktop/slambot_ros2/install/slambot_controllers
+[7.286s] Invoking command in '/home/einstein/Desktop/slambot_ros2/build/slambot_controllers': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/einstein/Desktop/slambot_ros2/build/slambot_controllers -- -j8 -l8
+[7.319s] [ 50%] [32mBuilding CXX object CMakeFiles/noisy_controller.dir/src/noisy_controller.cpp.o[0m
+[7.319s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_controller.dir/src/simple_controller.cpp.o[0m
+[7.325s] [ 50%] Built target ament_cmake_python_copy_slambot_controllers
+[7.515s] running egg_info
+[7.516s] creating slambot_controllers.egg-info
+[7.516s] writing slambot_controllers.egg-info/PKG-INFO
+[7.516s] writing dependency_links to slambot_controllers.egg-info/dependency_links.txt
+[7.516s] writing top-level names to slambot_controllers.egg-info/top_level.txt
+[7.516s] writing manifest file 'slambot_controllers.egg-info/SOURCES.txt'
+[7.530s] reading manifest file 'slambot_controllers.egg-info/SOURCES.txt'
+[7.530s] writing manifest file 'slambot_controllers.egg-info/SOURCES.txt'
+[7.557s] [ 50%] Built target ament_cmake_python_build_slambot_controllers_egg
+[9.567s] In file included from [01m[K/home/einstein/Desktop/slambot_ros2/src/slambot_controllers/src/noisy_controller.cpp:1[m[K:
+[9.568s] [01m[K/home/einstein/Desktop/slambot_ros2/src/slambot_controllers/include/slambot_controllers/noisy_controller.hpp:[m[K In constructor ‘[01m[KNoisyController::NoisyController(const string&)[m[K’:
+[9.568s] [01m[K/home/einstein/Desktop/slambot_ros2/src/slambot_controllers/include/slambot_controllers/noisy_controller.hpp:27:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KNoisyController::left_wheel_prev_pos_[m[K’ will be initialized after [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wreorder-Wreorder]8;;[m[K]
+[9.568s]    27 |     double [01;35m[Kleft_wheel_prev_pos_[m[K;
+[9.568s]       |            [01;35m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[9.568s] [01m[K/home/einstein/Desktop/slambot_ros2/src/slambot_controllers/include/slambot_controllers/noisy_controller.hpp:26:12:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kdouble NoisyController::right_wheel_prev_pos_[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wreorder-Wreorder]8;;[m[K]
+[9.568s]    26 |     double [01;35m[Kright_wheel_prev_pos_[m[K;
+[9.568s]       |            [01;35m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[9.568s] [01m[K/home/einstein/Desktop/slambot_ros2/src/slambot_controllers/src/noisy_controller.cpp:9:1:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wreorder-Wreorder]8;;[m[K]
+[9.568s]     9 | [01;35m[KNoisyController[m[K::NoisyController(const std::string& name)
+[9.568s]       | [01;35m[K^~~~~~~~~~~~~~~[m[K
+[10.413s] In file included from [01m[K/home/einstein/Desktop/slambot_ros2/src/slambot_controllers/src/simple_controller.cpp:1[m[K:
+[10.413s] [01m[K/home/einstein/Desktop/slambot_ros2/src/slambot_controllers/include/slambot_controllers/simple_controller.hpp:[m[K In constructor ‘[01m[KSimpleController::SimpleController(const string&)[m[K’:
+[10.413s] [01m[K/home/einstein/Desktop/slambot_ros2/src/slambot_controllers/include/slambot_controllers/simple_controller.hpp:34:12:[m[K [01;35m[Kwarning: [m[K‘[01m[KSimpleController::left_wheel_prev_pos_[m[K’ will be initialized after [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wreorder-Wreorder]8;;[m[K]
+[10.413s]    34 |     double [01;35m[Kleft_wheel_prev_pos_[m[K;
+[10.413s]       |            [01;35m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[10.413s] [01m[K/home/einstein/Desktop/slambot_ros2/src/slambot_controllers/include/slambot_controllers/simple_controller.hpp:33:12:[m[K [01;35m[Kwarning: [m[K  ‘[01m[Kdouble SimpleController::right_wheel_prev_pos_[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wreorder-Wreorder]8;;[m[K]
+[10.413s]    33 |     double [01;35m[Kright_wheel_prev_pos_[m[K;
+[10.413s]       |            [01;35m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[10.413s] [01m[K/home/einstein/Desktop/slambot_ros2/src/slambot_controllers/src/simple_controller.cpp:9:1:[m[K [01;35m[Kwarning: [m[K  when initialized here [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wreorder-Wreorder]8;;[m[K]
+[10.413s]     9 | [01;35m[KSimpleController[m[K::SimpleController(const std::string& name)
+[10.413s]       | [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[14.700s] [ 75%] [32m[1mLinking CXX executable noisy_controller[0m
+[15.314s] [ 75%] Built target noisy_controller
+[18.365s] [100%] [32m[1mLinking CXX executable simple_controller[0m
+[18.861s] [100%] Built target simple_controller
+[18.877s] Invoked command in '/home/einstein/Desktop/slambot_ros2/build/slambot_controllers' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/einstein/Desktop/slambot_ros2/build/slambot_controllers -- -j8 -l8
+[18.907s] Invoking command in '/home/einstein/Desktop/slambot_ros2/build/slambot_controllers': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/einstein/Desktop/slambot_ros2/build/slambot_controllers
+[18.915s] -- Install configuration: ""
+[18.915s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/pythonpath.sh
+[18.915s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/pythonpath.dsv
+[18.915s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers-0.0.0-py3.10.egg-info
+[18.915s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers-0.0.0-py3.10.egg-info/dependency_links.txt
+[18.916s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers-0.0.0-py3.10.egg-info/PKG-INFO
+[18.916s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers-0.0.0-py3.10.egg-info/top_level.txt
+[18.916s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers-0.0.0-py3.10.egg-info/SOURCES.txt
+[18.916s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers
+[18.916s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers/noisy_controller.py
+[18.916s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers/simple_controller.py
+[18.916s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers/__init__.py
+[18.940s] Listing '/home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers'...
+[18.940s] Compiling '/home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers/__init__.py'...
+[18.940s] Compiling '/home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers/noisy_controller.py'...
+[18.940s] Compiling '/home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers/simple_controller.py'...
+[18.944s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/include/include
+[18.944s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/include/include/slambot_controllers
+[18.944s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/include/include/slambot_controllers/noisy_controller.hpp
+[18.944s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/include/include/slambot_controllers/simple_controller.hpp
+[18.944s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/lib/slambot_controllers/simple_controller
+[18.947s] -- Set runtime path of "/home/einstein/Desktop/slambot_ros2/install/slambot_controllers/lib/slambot_controllers/simple_controller" to ""
+[18.947s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/lib/slambot_controllers/noisy_controller
+[18.949s] -- Set runtime path of "/home/einstein/Desktop/slambot_ros2/install/slambot_controllers/lib/slambot_controllers/noisy_controller" to ""
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/launch
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/launch/joystick_teleop.launch.py
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/launch/controller.launch.py
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/config
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/config/slambot_controllers.yaml
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/config/gazebo_params.yaml
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/lib/slambot_controllers/simple_controller.py
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/lib/slambot_controllers/noisy_controller.py
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/ament_index/resource_index/package_run_dependencies/slambot_controllers
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/ament_index/resource_index/parent_prefix_path/slambot_controllers
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/ament_prefix_path.sh
+[18.949s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/ament_prefix_path.dsv
+[18.950s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/path.sh
+[18.950s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/path.dsv
+[18.950s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/local_setup.bash
+[18.950s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/local_setup.sh
+[18.950s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/local_setup.zsh
+[18.950s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/local_setup.dsv
+[18.950s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/package.dsv
+[18.950s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/ament_index/resource_index/packages/slambot_controllers
+[18.950s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/cmake/slambot_controllersConfig.cmake
+[18.950s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/cmake/slambot_controllersConfig-version.cmake
+[18.950s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/package.xml
+[18.952s] Invoked command in '/home/einstein/Desktop/slambot_ros2/build/slambot_controllers' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/einstein/Desktop/slambot_ros2/build/slambot_controllers

@@ -1,0 +1,42 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/einstein/Desktop/slambot_ros2/build/slambot_bringup
+-- Install configuration: ""
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/config
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/config/rplidar_a1.yaml
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/launch
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/launch/slambot_real.launch.py
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/ament_index/resource_index/package_run_dependencies/slambot_bringup
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/ament_index/resource_index/parent_prefix_path/slambot_bringup
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/environment/ament_prefix_path.sh
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/environment/ament_prefix_path.dsv
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/environment/path.sh
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/environment/path.dsv
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/local_setup.bash
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/local_setup.sh
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/local_setup.zsh
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/local_setup.dsv
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/package.dsv
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/ament_index/resource_index/packages/slambot_bringup
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/cmake/slambot_bringupConfig.cmake
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/cmake/slambot_bringupConfig-version.cmake
+-- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_bringup/share/slambot_bringup/package.xml
