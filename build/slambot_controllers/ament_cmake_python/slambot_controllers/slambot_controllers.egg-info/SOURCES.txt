@@ -1,8 +1,0 @@
-setup.py
-slambot_controllers/__init__.py
-slambot_controllers/noisy_controller.py
-slambot_controllers/simple_controller.py
-slambot_controllers.egg-info/PKG-INFO
-slambot_controllers.egg-info/SOURCES.txt
-slambot_controllers.egg-info/dependency_links.txt
-slambot_controllers.egg-info/top_level.txt

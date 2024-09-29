@@ -1,6 +1,0 @@
-setup.py
-slambot_firmware/__init__.py
-slambot_firmware.egg-info/PKG-INFO
-slambot_firmware.egg-info/SOURCES.txt
-slambot_firmware.egg-info/dependency_links.txt
-slambot_firmware.egg-info/top_level.txt
