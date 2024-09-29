@@ -1,0 +1,56 @@
+[0.012s] Invoking command in '/home/einstein/Desktop/slambot_ros2/build/slambot_controllers': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/einstein/Desktop/slambot_ros2/build/slambot_controllers -- -j8 -l8
+[0.056s] [ 50%] Built target noisy_controller
+[0.058s] [ 50%] Built target ament_cmake_python_copy_slambot_controllers
+[0.059s] [100%] Built target simple_controller
+[0.235s] running egg_info
+[0.236s] writing slambot_controllers.egg-info/PKG-INFO
+[0.236s] writing dependency_links to slambot_controllers.egg-info/dependency_links.txt
+[0.236s] writing top-level names to slambot_controllers.egg-info/top_level.txt
+[0.238s] reading manifest file 'slambot_controllers.egg-info/SOURCES.txt'
+[0.238s] writing manifest file 'slambot_controllers.egg-info/SOURCES.txt'
+[0.263s] [100%] Built target ament_cmake_python_build_slambot_controllers_egg
+[0.272s] Invoked command in '/home/einstein/Desktop/slambot_ros2/build/slambot_controllers' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/einstein/Desktop/slambot_ros2/build/slambot_controllers -- -j8 -l8
+[0.292s] Invoking command in '/home/einstein/Desktop/slambot_ros2/build/slambot_controllers': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/einstein/Desktop/slambot_ros2/build/slambot_controllers
+[0.297s] -- Install configuration: ""
+[0.297s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/pythonpath.sh
+[0.297s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/pythonpath.dsv
+[0.298s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers-0.0.0-py3.10.egg-info
+[0.298s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.298s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers-0.0.0-py3.10.egg-info/PKG-INFO
+[0.298s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers-0.0.0-py3.10.egg-info/top_level.txt
+[0.298s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.298s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers
+[0.298s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers/noisy_controller.py
+[0.298s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers/simple_controller.py
+[0.298s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers/__init__.py
+[0.322s] Listing '/home/einstein/Desktop/slambot_ros2/install/slambot_controllers/local/lib/python3.10/dist-packages/slambot_controllers'...
+[0.327s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/include/include
+[0.327s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/include/include/slambot_controllers
+[0.327s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/include/include/slambot_controllers/noisy_controller.hpp
+[0.327s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/include/include/slambot_controllers/simple_controller.hpp
+[0.327s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/lib/slambot_controllers/simple_controller
+[0.327s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/lib/slambot_controllers/noisy_controller
+[0.327s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/launch
+[0.328s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/launch/joystick_teleop.launch.py
+[0.328s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/launch/controller.launch.py
+[0.328s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/config
+[0.328s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/config/slambot_controllers.yaml
+[0.328s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/config/gazebo_params.yaml
+[0.328s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/lib/slambot_controllers/simple_controller.py
+[0.329s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/lib/slambot_controllers/noisy_controller.py
+[0.329s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/ament_index/resource_index/package_run_dependencies/slambot_controllers
+[0.329s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/ament_index/resource_index/parent_prefix_path/slambot_controllers
+[0.329s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/ament_prefix_path.sh
+[0.329s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/ament_prefix_path.dsv
+[0.329s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/path.sh
+[0.329s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/environment/path.dsv
+[0.329s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/local_setup.bash
+[0.329s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/local_setup.sh
+[0.329s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/local_setup.zsh
+[0.329s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/local_setup.dsv
+[0.330s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/package.dsv
+[0.330s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/ament_index/resource_index/packages/slambot_controllers
+[0.330s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/cmake/slambot_controllersConfig.cmake
+[0.330s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/cmake/slambot_controllersConfig-version.cmake
+[0.330s] -- Up-to-date: /home/einstein/Desktop/slambot_ros2/install/slambot_controllers/share/slambot_controllers/package.xml
+[0.337s] Invoked command in '/home/einstein/Desktop/slambot_ros2/build/slambot_controllers' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/einstein/Desktop/slambot_ros2/build/slambot_controllers

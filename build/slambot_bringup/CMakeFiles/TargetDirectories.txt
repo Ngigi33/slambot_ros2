@@ -1,0 +1,9 @@
+/home/einstein/Desktop/slambot_ros2/build/slambot_bringup/CMakeFiles/uninstall.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_bringup/CMakeFiles/slambot_bringup_uninstall.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_bringup/CMakeFiles/test.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_bringup/CMakeFiles/edit_cache.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_bringup/CMakeFiles/rebuild_cache.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_bringup/CMakeFiles/list_install_components.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_bringup/CMakeFiles/install.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_bringup/CMakeFiles/install/local.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_bringup/CMakeFiles/install/strip.dir

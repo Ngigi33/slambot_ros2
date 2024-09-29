@@ -1,0 +1,13 @@
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/uninstall.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/slambot_controllers_uninstall.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/simple_controller.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/noisy_controller.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/ament_cmake_python_copy_slambot_controllers.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/ament_cmake_python_build_slambot_controllers_egg.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/test.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/edit_cache.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/rebuild_cache.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/list_install_components.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/install.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/install/local.dir
+/home/einstein/Desktop/slambot_ros2/build/slambot_controllers/CMakeFiles/install/strip.dir

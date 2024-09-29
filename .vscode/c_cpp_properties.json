@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/opt/ros/humble/include/**",
+                "/opt/ros/humble/include/nav_msgs",
+                "${workspaceFolder}/**",
+                "/opt/ros/humble/include/example_interfaces",
+                "/opt/ros/humble/include/std_msgs",
+                "/opt/ros/humble/include/tf2",
+                "/opt/ros/humble/include/tf2_ros",
+                "/opt/ros/humble/include/geometry_msgs"
+                
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

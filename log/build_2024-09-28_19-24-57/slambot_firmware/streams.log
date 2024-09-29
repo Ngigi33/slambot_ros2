@@ -1,0 +1,108 @@
+[0.010s] Invoking command in '/home/einstein/Desktop/slambot_ros2/build/slambot_firmware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/einstein/Desktop/slambot_ros2/src/slambot_firmware -DCMAKE_INSTALL_PREFIX=/home/einstein/Desktop/slambot_ros2/install/slambot_firmware
+[0.049s] -- The C compiler identification is GNU 11.4.0
+[0.092s] -- The CXX compiler identification is GNU 11.4.0
+[0.099s] -- Detecting C compiler ABI info
+[0.153s] -- Detecting C compiler ABI info - done
+[0.163s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.163s] -- Detecting C compile features
+[0.164s] -- Detecting C compile features - done
+[0.167s] -- Detecting CXX compiler ABI info
+[0.227s] -- Detecting CXX compiler ABI info - done
+[0.232s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.232s] -- Detecting CXX compile features
+[0.233s] -- Detecting CXX compile features - done
+[0.235s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.349s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.437s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.474s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.479s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.486s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.498s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.511s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.551s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.553s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.620s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.642s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.671s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.677s] -- Looking for pthread.h
+[0.741s] -- Looking for pthread.h - found
+[0.741s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.801s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.802s] -- Found Threads: TRUE  
+[0.839s] -- Found rclpy: 3.3.14 (/opt/ros/humble/share/rclpy/cmake)
+[0.840s] -- Found hardware_interface: 2.42.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[0.949s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") 
+[0.949s] -- Checking for module 'libserial'
+[0.959s] --   Found libserial, version 1.0.0
+[1.044s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.101s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.101s] -- Configured cppcheck include dirs: /home/einstein/Desktop/slambot_ros2/src/slambot_firmware/include;/home/einstein/Desktop/slambot_ros2/src/slambot_firmware/
+[1.101s] -- Configured cppcheck exclude dirs and/or files: 
+[1.102s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.102s] -- Added test 'lint_cmake' to check CMake code style
+[1.102s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.103s] -- Added test 'uncrustify' to check C / C++ code style
+[1.103s] -- Configured uncrustify additional arguments: 
+[1.104s] -- Added test 'xmllint' to check XML markup files
+[1.105s] -- Configuring done
+[1.122s] -- Generating done
+[1.123s] -- Build files have been written to: /home/einstein/Desktop/slambot_ros2/build/slambot_firmware
+[1.132s] Invoked command in '/home/einstein/Desktop/slambot_ros2/build/slambot_firmware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/einstein/Desktop/slambot_ros2/src/slambot_firmware -DCMAKE_INSTALL_PREFIX=/home/einstein/Desktop/slambot_ros2/install/slambot_firmware
+[1.133s] Invoking command in '/home/einstein/Desktop/slambot_ros2/build/slambot_firmware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/einstein/Desktop/slambot_ros2/build/slambot_firmware -- -j8 -l8
+[1.168s] [ 50%] [32mBuilding CXX object CMakeFiles/slambot_firmware.dir/src/slambot_interface.cpp.o[0m
+[1.173s] [ 50%] Built target ament_cmake_python_copy_slambot_firmware
+[1.345s] running egg_info
+[1.345s] creating slambot_firmware.egg-info
+[1.346s] writing slambot_firmware.egg-info/PKG-INFO
+[1.346s] writing dependency_links to slambot_firmware.egg-info/dependency_links.txt
+[1.346s] writing top-level names to slambot_firmware.egg-info/top_level.txt
+[1.346s] writing manifest file 'slambot_firmware.egg-info/SOURCES.txt'
+[1.348s] reading manifest file 'slambot_firmware.egg-info/SOURCES.txt'
+[1.348s] writing manifest file 'slambot_firmware.egg-info/SOURCES.txt'
+[1.372s] [ 50%] Built target ament_cmake_python_build_slambot_firmware_egg
+[3.599s] [100%] [32m[1mLinking CXX shared library libslambot_firmware.so[0m
+[3.722s] [100%] Built target slambot_firmware
+[3.738s] Invoked command in '/home/einstein/Desktop/slambot_ros2/build/slambot_firmware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/einstein/Desktop/slambot_ros2/build/slambot_firmware -- -j8 -l8
+[3.754s] Invoking command in '/home/einstein/Desktop/slambot_ros2/build/slambot_firmware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/einstein/Desktop/slambot_ros2/build/slambot_firmware
+[3.759s] -- Install configuration: ""
+[3.759s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/environment/pythonpath.sh
+[3.759s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/environment/pythonpath.dsv
+[3.759s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/local/lib/python3.10/dist-packages/slambot_firmware-0.0.0-py3.10.egg-info
+[3.759s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/local/lib/python3.10/dist-packages/slambot_firmware-0.0.0-py3.10.egg-info/dependency_links.txt
+[3.759s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/local/lib/python3.10/dist-packages/slambot_firmware-0.0.0-py3.10.egg-info/PKG-INFO
+[3.759s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/local/lib/python3.10/dist-packages/slambot_firmware-0.0.0-py3.10.egg-info/top_level.txt
+[3.759s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/local/lib/python3.10/dist-packages/slambot_firmware-0.0.0-py3.10.egg-info/SOURCES.txt
+[3.759s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/local/lib/python3.10/dist-packages/slambot_firmware
+[3.759s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/local/lib/python3.10/dist-packages/slambot_firmware/__init__.py
+[3.781s] Listing '/home/einstein/Desktop/slambot_ros2/install/slambot_firmware/local/lib/python3.10/dist-packages/slambot_firmware'...
+[3.781s] Compiling '/home/einstein/Desktop/slambot_ros2/install/slambot_firmware/local/lib/python3.10/dist-packages/slambot_firmware/__init__.py'...
+[3.784s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/slambot_interface.xml
+[3.784s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/lib/libslambot_firmware.so
+[3.785s] -- Set runtime path of "/home/einstein/Desktop/slambot_ros2/install/slambot_firmware/lib/libslambot_firmware.so" to ""
+[3.785s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/include/include
+[3.785s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/include/include/slambot_firmware
+[3.785s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/include/include/slambot_firmware/diffdrive_stm.hpp
+[3.785s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/launch
+[3.785s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/launch/hardware_interface.launch.py
+[3.785s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/environment/library_path.sh
+[3.785s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/environment/library_path.dsv
+[3.785s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/ament_index/resource_index/package_run_dependencies/slambot_firmware
+[3.785s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/ament_index/resource_index/parent_prefix_path/slambot_firmware
+[3.785s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/environment/ament_prefix_path.sh
+[3.785s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/environment/ament_prefix_path.dsv
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/environment/path.sh
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/environment/path.dsv
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/local_setup.bash
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/local_setup.sh
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/local_setup.zsh
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/local_setup.dsv
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/package.dsv
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/ament_index/resource_index/packages/slambot_firmware
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/slambot_firmware
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/cmake/ament_cmake_export_libraries-extras.cmake
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.786s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/cmake/slambot_firmwareConfig.cmake
+[3.787s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/cmake/slambot_firmwareConfig-version.cmake
+[3.787s] -- Installing: /home/einstein/Desktop/slambot_ros2/install/slambot_firmware/share/slambot_firmware/package.xml
+[3.788s] Invoked command in '/home/einstein/Desktop/slambot_ros2/build/slambot_firmware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/einstein/Desktop/slambot_ros2/build/slambot_firmware
